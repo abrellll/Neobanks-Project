@@ -1,1 +1,2 @@
-# Neobanks-Project
+# Transactional and Loan Performance Analysis for Strategic Insights
+This project involves analyzing and reporting on transactional data and loan performance for BNC to provide comprehensive insights that aid in strategic decision-making. This project will leverage SQL and data visualization tools to create robust, data-backed insights that will inform BNC’s management strategies, optimizing transaction analysis and loan performance management for better decision-making.
